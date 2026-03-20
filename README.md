@@ -3,7 +3,7 @@
 ## Business Request
 The Sales Manager requested a move from static reports to 
 interactive visual dashboards to better track internet sales 
-performance — focusing on products sold, customers, and 
+performance  focusing on products sold, customers, and 
 performance against budget over time.
 
 ## User Stories
