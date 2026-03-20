@@ -37,8 +37,6 @@ AdventureWorksDW2019:
 - FACT_InternetSales
 - FACT_Budget (Excel)
 
-### Power BI — Dashboard Pages
-
 #### 1. Sales Overview
 ![Sales Overview](screenshots/sales_overview.png)
 
@@ -48,6 +46,8 @@ AdventureWorksDW2019:
 #### 3. Product Details
 ![Product Details](screenshots/product_details.png)
 
+#### Dashboard Mockup
+![Dashboard Mockup](screenshots/dashboard_mockup.png)
 ## Key Business Questions Answered
 - Which customers generate the most sales?
 - Which products perform best?
