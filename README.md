@@ -37,17 +37,14 @@ AdventureWorksDW2019:
 - FACT_InternetSales
 - FACT_Budget (Excel)
 
-#### 1. Sales Overview
-![Sales Overview](screenshots/sales_overview.png)
+![Sales Overview](screenshots/sales_overview.png.png)
 
-#### 2. Customer Details
-![Customer Details](screenshots/customer_details.png)
+![Customer Details](screenshots/customer_details.png.png)
 
-#### 3. Product Details
-![Product Details](screenshots/product_details.png)
+![Product Details](screenshots/product_details.png.png)
 
-#### Dashboard Mockup
 ![Dashboard Mockup](screenshots/dashboard_mockup.png)
+
 ## Key Business Questions Answered
 - Which customers generate the most sales?
 - Which products perform best?
